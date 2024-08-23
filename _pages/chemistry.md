@@ -2,9 +2,7 @@
 permalink: /chemistry/
 title: "Chemistry"
 author_profile: true
-redirect_from: 
-  - /chemistry/
-  - /chemistry.html
+redirect_from:
 ---
 
 ## Locations of key files/directories

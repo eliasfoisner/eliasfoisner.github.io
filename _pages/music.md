@@ -2,9 +2,7 @@
 permalink: /music/
 title: "Music"
 author_profile: true
-redirect_from: 
-  - /music/
-  - /music.html
+redirect_from:
 ---
 
 ## Locations of key files/directories
