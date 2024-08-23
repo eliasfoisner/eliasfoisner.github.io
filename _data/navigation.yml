@@ -6,8 +6,17 @@
 
 main:
 
-#  - title: "Chemistry"
-#    url: /chemistry/
+  - title: "Chemistry"
+    url: /chemistry/
+
+  - title: "Music"
+    url: /music/
+
+  - title: "Sports"
+    url: /sports/
+
+  - title: "Blog"
+    url: /year-archive/
 
 #  - title: "Publications"
 #    url: /publications/
@@ -20,9 +29,6 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
     
 #  - title: "CV"
 #    url: /cv/
