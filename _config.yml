@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-7402-517X"
   semantic         : # URL
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : elias.foisner
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : eliasfoisner
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : @eliasfoisner
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -290,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Vienna # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
