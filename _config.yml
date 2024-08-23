@@ -12,7 +12,7 @@ title                    : "Elias Foisner"
 title_separator          : "-"
 name                     : &name "Elias Foisner"
 description              : &description "personal description"
-url                      : https://eliasfoisner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://eliasfoisner.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eliasfoisner/eliasfoisner.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "eliasfoisner"
+  github           : "https://github.com/eliasfoisner"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : elias.foisner
+  instagram        : "https://www.instagram.com/elias.foisner"
   lastfm           : # Username
-  linkedin         : eliasfoisner
+  linkedin         : "https://at.linkedin.com/in/eliasfoisner"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : @eliasfoisner
+  youtube          : "www.youtube.com/@eliasfoisner"
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
