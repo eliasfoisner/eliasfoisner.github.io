@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal homepage of Elias Foisner"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
