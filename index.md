@@ -1,3 +1,3 @@
-[ORCID](https://orcid.org/0000-0001-7402-517X)
-[LinkedIn](https://www.linkedin.com/in/eliasfoisner/)
-[Instagram](https://www.instagram.com/elias.foisner/)
+- [ORCID](https://orcid.org/0000-0001-7402-517X)
+- [LinkedIn](https://www.linkedin.com/in/eliasfoisner/)
+- [Instagram](https://www.instagram.com/elias.foisner/)
